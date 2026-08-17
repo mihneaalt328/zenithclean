@@ -1,0 +1,39 @@
+name: ZenithSkyPvP
+version: 2.2.0
+main: me.zenith.skypvp.ZenithSkyPvP
+author: ZenithMC
+description: Complete SkyPvP gameplay plugin. RankSystem and EssentialsX compatible.
+softdepend: [Essentials, EssentialsX, RankSystem]
+commands:
+  zspvp:
+    description: Zenith SkyPvP main command
+    usage: /zspvp help
+    aliases: [zenith]
+  kit:
+    description: Open SkyPvP kits
+  kits:
+    description: Open SkyPvP kits
+  crate:
+    description: Open a crate
+    aliases: [crates]
+  coins:
+    description: Show your coins
+  stats:
+    description: Show SkyPvP statistics
+  shop:
+    description: Open the SkyPvP shop
+  setzspawn:
+    description: Set Zenith SkyPvP spawn
+    permission: zenith.admin
+  zspawn:
+    description: Teleport to Zenith SkyPvP spawn
+    aliases: [skyspawn]
+permissions:
+  zenith.admin:
+    default: op
+  zenith.kit:
+    default: true
+  zenith.crates:
+    default: true
+  zenith.shop:
+    default: true

@@ -1,0 +1,17 @@
+items:
+  diamond:
+    material: DIAMOND
+    amount: 1
+    price: 250
+  golden_apple:
+    material: GOLDEN_APPLE
+    amount: 1
+    price: 500
+  diamond_sword:
+    material: DIAMOND_SWORD
+    amount: 1
+    price: 1500
+  ender_pearl:
+    material: ENDER_PEARL
+    amount: 1
+    price: 750

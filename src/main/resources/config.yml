@@ -1,0 +1,24 @@
+server-name: "ZENITH SKYPVP"
+domain: "skypvp.zenithmc.net"
+max-players: 200
+scoreboard:
+  enabled: true
+  title: "&b&lZENITH"
+tab:
+  enabled: true
+  header: "&8&m--------------------&r
+&b&lZENITH SKYPVP
+&fWelcome to the SkyPvP server!"
+  footer: "&7Online: &b%online%&7/&b%max%
+&e%domain%
+&8&m--------------------"
+combat:
+  enabled: true
+  seconds: 15
+  block-teleport-commands: true
+spawn:
+  protection-seconds: 5
+coins:
+  starting: 100
+  kill-reward: 25
+  death-loss: 0

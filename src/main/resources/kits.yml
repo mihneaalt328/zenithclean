@@ -1,0 +1,23 @@
+Starter:
+  permission: "zenith.kit"
+  cooldown: 30
+  items:
+    - "STONE_SWORD:1"
+    - "BOW:1"
+    - "ARROW:16"
+    - "COOKED_BEEF:16"
+VIP:
+  permission: "zenith.kit.vip"
+  cooldown: 300
+  items:
+    - "IRON_SWORD:1"
+    - "IRON_PICKAXE:1"
+    - "COOKED_BEEF:32"
+MVP:
+  permission: "zenith.kit.mvp"
+  cooldown: 600
+  items:
+    - "DIAMOND_SWORD:1"
+    - "DIAMOND_PICKAXE:1"
+    - "GOLDEN_APPLE:2"
+    - "COOKED_BEEF:32"

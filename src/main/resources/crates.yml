@@ -1,0 +1,21 @@
+Vote:
+  permission: "zenith.crates"
+  key-name: "Vote Key"
+  rewards:
+    - "COINS:100"
+    - "COINS:250"
+    - "IRON_INGOT:8"
+Legendary:
+  permission: "zenith.crates.legendary"
+  key-name: "Legendary Key"
+  rewards:
+    - "COINS:1000"
+    - "DIAMOND:4"
+    - "GOLDEN_APPLE:2"
+Zenith:
+  permission: "zenith.crates.zenith"
+  key-name: "Zenith Key"
+  rewards:
+    - "COINS:5000"
+    - "DIAMOND:16"
+    - "GOLDEN_APPLE:8"
